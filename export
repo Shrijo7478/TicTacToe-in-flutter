@@ -1,0 +1,37 @@
+[?1049h[>4;2m[?1h=[?2004h[?1004h[1;21r[?12h[?12l[22;2t[22;1t[27m[23m[29m[m[H[2J[?25l[21;1H"~/.zshrc" [noeol] 26L, 871B[1;1H# Existing Conda and chruby configurations...
+
+# >>> conda initialize >>>
+# !! Contents within this block are managed by 'conda init' !!
+__conda_setup="$('/Users/shrirangjoshi/miniforge3/bin/conda' 'shell.zsh' 'hook' 2> /dev/null)"
+if [ $? -eq 0 ]; then
+    eval "$__conda_setup"
+else
+    if [ -f "/Users/shrirangjoshi/miniforge3/etc/profile.d/conda.sh" ]; then[10;9H. "/Users/shrirangjoshi/miniforge3/etc/profile.d/conda.sh"
+    else[12;9Hexport PATH="/Users/shrirangjoshi/miniforge3/bin:$PATH"
+    fi
+fi
+unset __conda_setup
+
+if [ -f "/Users/shrirangjoshi/miniforge3/etc/profile.d/mamba.sh" ]; then
+    . "/Users/shrirangjoshi/miniforge3/etc/profile.d/mamba.sh"
+fi
+# <<< conda initialize <<<[1;1H[?25h[?4m[?25l[21;1H[1m-- INSERT --[m[21;13H[K[1;1H[?25h[?25li# Existing Conda and chruby configurations...i[?25h[?25l:# Existing Conda and chruby configurations...i:[?25h[27m[23m[29m[m[H[2J[?25l[1;1Hi:# Existing Conda and chruby configurations...
+
+# >>> conda initialize >>>
+# !! Contents within this block are managed by 'conda init' !!
+__conda_setup="$('/Users/shrirangjoshi/miniforge3/bin/conda' 'shell.zsh' 'hook' 2> /dev/null)"
+if [ $? -eq 0 ]; then
+    eval "$__conda_setup"
+else
+    if [ -f "/Users/shrirangjoshi/miniforge3/etc/profile.d/conda.sh" ]; then[10;9H. "/Users/shrirangjoshi/miniforge3/etc/profile.d/conda.sh"
+    else[12;9Hexport PATH="/Users/shrirangjoshi/miniforge3/bin:$PATH"
+    fi
+fi
+unset __conda_setup
+
+if [ -f "/Users/shrirangjoshi/miniforge3/etc/profile.d/mamba.sh" ]; then
+    . "/Users/shrirangjoshi/miniforge3/etc/profile.d/mamba.sh"
+fi
+# <<< conda initialize <<<
+[1m-- INSERT --[1;3H[?25hVim: Double signal, exiting
+[21;1H[23;2t[23;1t[m[?1004l[?2004l[?1l>[?1049l[>4;m[21;1H
